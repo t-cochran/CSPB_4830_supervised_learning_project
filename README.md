@@ -17,7 +17,7 @@ __Project Description__
 
 __Problem Type__
 
-* This is an multiclass classification problem. The target class `quality` is an ordinal variable that ranks wine quality on a scale from $[0, 10]$.
+* This is an multiclass classification problem. The target class `quality` is an ordinal variable that ranks wine quality on a scale from [0, 10].
 
 __Project Motivation__
 
